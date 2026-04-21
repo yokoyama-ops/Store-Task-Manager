@@ -1,0 +1,6 @@
+{
+  "name": "店長タスク管理システム (Store Task Manager)",
+  "description": "店長と本部の間で提出書類の進捗を共有・可視化し、締め切り管理を徹底するためのプラットフォーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
